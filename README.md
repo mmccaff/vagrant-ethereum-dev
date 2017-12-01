@@ -21,7 +21,13 @@ Why I made this
 I initially made this to setup an environment that'd allow me to follow along with this blog post:
 * https://hackernoon.com/full-stack-smart-contract-development-fccdfe5176ce
 
-A collection of other links
----------------------------
+A collection of other eth dev links
+-----------------------------------
 * http://truffleframework.com/
 * http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/
+
+A collection of links about creating ERC20 tokens
+--------------------------------------------------
+* http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin
+* https://github.com/OpenZeppelin/zeppelin-solidity
+* https://github.com/ConsenSys/Tokens
