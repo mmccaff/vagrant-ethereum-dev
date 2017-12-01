@@ -9,7 +9,7 @@ cd vagrant-ethereum-dev
 (Change the static ip of 192.168.10.11 to something else in the Vagrantfile if that address is taken.)
 vagrant up
 vagrant ssh
-have fun!
+solc, truffle, ganache-cli, geth, (...)  will be available to you... have fun!
 ```
 
 The Vagrantfile is configured to map the /home/vagrant subdirectory in the guest vm to the included (empty) shared directory on your host.
