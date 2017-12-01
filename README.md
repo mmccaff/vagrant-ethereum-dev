@@ -1,5 +1,5 @@
 # vagrant-ethereum-dev
-Builds a development environment for playing with Ethereum and smart contracts
+Uses Vagrant to build an Ubuntu 16.04 development environment for playing with Ethereum and smart contracts. See the Vagrantfile and bootstrap.sh for more details.
 
 To use it
 ---------
@@ -12,7 +12,7 @@ vagrant ssh
 have fun!
 ```
 
-The Vagrantfile is configured to map the /home/vagrant subdirectory in the guest vm to the vagrant-ethereum-dev/shared on your host.
+The Vagrantfile is configured to map the /home/vagrant subdirectory in the guest vm to the included (empty) shared directory on your host.
 
 Why I made this
 ---------------
