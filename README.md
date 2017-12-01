@@ -1,6 +1,8 @@
 # vagrant-ethereum-dev
 Uses Vagrant to build an Ubuntu 16.04 development environment for playing with Ethereum and smart contracts. See the Vagrantfile and bootstrap.sh for more details.
 
+Obviously, you'll need to have Vagrant installed and a hypervisor such as Virtualbox.
+
 To use it
 ---------
 ```
