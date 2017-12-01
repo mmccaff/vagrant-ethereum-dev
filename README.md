@@ -31,3 +31,8 @@ A collection of links about creating ERC20 tokens
 * http://truffleframework.com/tutorials/robust-smart-contracts-with-openzeppelin
 * https://github.com/OpenZeppelin/zeppelin-solidity
 * https://github.com/ConsenSys/Tokens
+
+TODO
+----
+* Move the shared folder outside of this repo so individual projects can be their own repos
+* Consider setting memory and cpu resources in Vagrantfile
