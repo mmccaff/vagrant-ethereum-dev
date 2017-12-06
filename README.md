@@ -28,6 +28,7 @@ A collection of other eth dev links
 * http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/
 * http://solidity.readthedocs.io/en/develop/
 * https://github.com/ethereum/wiki/wiki/White-Paper
+* https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 
 A collection of links about creating ERC20 tokens
 --------------------------------------------------
