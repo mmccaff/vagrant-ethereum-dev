@@ -7,7 +7,3 @@ apt-get install -y nodejs build-essential solc ethereum
 
 # ganache-cli (ganache-cli) has replaced ethereumjs-testrpc (testrpc)
 npm install -g ganache-cli truffle
-
-# If port forwarding is wanted
-# ethereum.vm.network :forwarded_port, guest: 8545, host: 8545
-# ethereum.vm.network :forwarded_port, guest: 30303, host: 30303, protocol: "udp"
