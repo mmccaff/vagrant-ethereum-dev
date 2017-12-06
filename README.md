@@ -26,6 +26,8 @@ A collection of other eth dev links
 -----------------------------------
 * http://truffleframework.com/
 * http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/
+* http://solidity.readthedocs.io/en/develop/
+* https://github.com/ethereum/wiki/wiki/White-Paper
 
 A collection of links about creating ERC20 tokens
 --------------------------------------------------
