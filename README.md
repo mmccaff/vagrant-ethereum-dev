@@ -14,7 +14,7 @@ vagrant ssh
 solc, truffle, ganache-cli, geth, (...)  will be available to you... have fun!
 ```
 
-The Vagrantfile is configured to map /home/vagrant/contracts in the guest vm to ../contracts on your host. If you want to play with Web3, the guest running nginx as a web server on port 80 and maps /var/www/html to ../web on your host.
+The Vagrantfile is configured to map /home/vagrant/contracts in the guest vm to ../contracts on your host. If you want to play with Web3, the guest is running nginx as a web server on port 80 and maps /var/www/html to ../web on your host.
 
 
 Why I made this
