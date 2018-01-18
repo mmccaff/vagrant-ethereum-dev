@@ -30,6 +30,7 @@ A collection of other eth dev links
 * https://github.com/ethereum/wiki/wiki/White-Paper
 * https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 * https://cryptozombies.io/
+* https://happyfuncorp.com/whitepapers/webthereum
 
 A collection of links about creating ERC20 tokens
 --------------------------------------------------
